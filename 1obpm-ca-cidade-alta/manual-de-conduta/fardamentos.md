@@ -9,66 +9,48 @@
 * Recruta
 
 ```
-Jaqueta: 666 cor 07
+Jaqueta: 922, 927, E 928 de acordo com patente
 Camisa: 268
 Colete: 75
 Gravata: 207
-Calça: 248
+Calça: 248, cor 01
 Bota: 25
 ```
 
-* Soldado
+* Soldado&#x20;
 
 ```
-Jaqueta: 666 cor 01
-Camisa: 268
-Colete: 69
-Gravata: 207
-Calça: 248
-```
-
-* Cabo
-
-```
-jaqueta 622-4, 
-camisa 223-0, 
-colete 67-0, 
-calca 237-0, 
-acessorio 245-0, 
-sapato 163-0
-```
-
-## Fardamento Masculino
-
-* Recruta
-
-```
-jaqueta 622-0, 
-camisa 223-0, 
-colete 68-0, 
-calca 237-0, 
-acessorio 231-0, 
-sapato 163-0
-```
-
-* Soldado
-
-```
-jaqueta 622-0, 
-camisa 223-0, 
-colete 68-0, 
-calca 237-0, 
-acessorio 231-0, 
-sapato 163-0
+Jaqueta - 922, 927, e 928 de acordo com a patente
+Calça - 248-1
+Colete - 97
+Sapato - 25
 ```
 
 * Cabo
 
 ```
-jaqueta 622-4, 
-camisa 223-0, 
-colete 67-0, 
-calca 237-0, 
-acessório 239-0, 
-sapato 163-0
+Jaqueta - 898, 922, 927 e 928 de acordo com a patente
+Calça - 248-1
+Colete - 97 (Moletom sem colete)
+Sapato - 25
 ```
+
+* Sargento
+
+```
+Jaqueta - 898, 922, 927 e 928 de acordo com a patente
+Calça - 248-1
+Colete - 97 (Moletom sem colete)
+Sapato - 25
+```
+
+* SubTenente
+
+```
+Jaqueta - 898, 922, 927 e 928 (sem patente no braço)
+Jaqueta - 668 e 917 de acordo com a patente
+Calça - 248, cor 1
+Colete - 97 (Se estiver de moletom e corta vento, sem colete)
+Sapato - 25 ou 36
+```
+

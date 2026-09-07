@@ -25,6 +25,7 @@
     * [Códigos (Q / codígos 0-6)](manuais-dos-cursos/manual-do-curso-de-comunicacao-operacional-modulacao/codigos-q-codigos-0-6.md)
     * [Bússola](manuais-dos-cursos/manual-do-curso-de-comunicacao-operacional-modulacao/bussola.md)
   * [Manual do Curso de Tablet](manuais-dos-cursos/manual-do-curso-de-tablet/README.md)
+    * [Zonas de Perigo](manuais-dos-cursos/manual-do-curso-de-tablet/zonas-de-perigo.md)
     * [Procedimento de Prisão](manuais-dos-cursos/manual-do-curso-de-tablet/procedimento-de-prisao.md)
     * [Procedimento de Prisão Veicular](manuais-dos-cursos/manual-do-curso-de-tablet/procedimento-de-prisao-veicular.md)
     * [Procurados](manuais-dos-cursos/manual-do-curso-de-tablet/procurados.md)
