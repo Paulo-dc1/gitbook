@@ -5,8 +5,8 @@ Em uma zona de perigo, qualquer movimentação dentro dela deverá ser classific
 Sempre que alguém entrar dentro de uma, deverá ser solicitado que se retire, e caso ocorra uma reincidencia, a força deverá ser escalonada, geralmente, Quando em veiculos:\
 \
 1 - Disparos de Aviso\
-2 - Disparo nos pneus\
-3 - Diparos letais\
+2 - Disparos nos pneus\
+3 - Disparos letais\
 \
 Em indivíduos que estejam a pé, a algema/taser deverá ser sempre priorizada antes de utilizar meios letais para imobilização.
 
@@ -28,7 +28,7 @@ Todas as ações conhecidas como blipadas tem seu perímetro já prédefinido pe
 
 ## <mark style="color:blue;">ZONA FRIA</mark>
 
-A Zona Fria é considerada uma zona de perigo pacificada, e por tanto, sem a necessitade de hostilidade. Ela deverá ser utilizada para organizar a ocorrência e delimitar a área de atuação policial, garantindo maior controle e organização após a neutralização de todos os hostis na área;\
+A Zona Fria é considerada uma zona de perigo pacificada, e por tanto, sem a necessidade de hostilidade. Ela deverá ser utilizada para organizar a ocorrência e delimitar a área de atuação policial, garantindo maior controle e organização após a neutralização de todos os hostis na área;\
 A existência de uma Zona Fria não significa que todas as pessoas que circularem pela área sejam suspeitas. O policial deverá agir com discernimento, evitando abordagens ou acusações sem que exista uma justificativa relacionada à ocorrência.\
 Pórem, jamais deve-se abaixar a guarda dentro de uma zona fria, estando sempre com atenção e cautela até a finalização da ocorrência.\
 Toda zona fria deverá ser anunciada 5 minutos antes de começar através do /911 e deverá começar sempre 5 minutos depois de que seja confirmada que todas as ameaças foram neutralizadas. Toda QRU de código 5 deverá ter a espera de 5 minutos para o início da zona fria independente da quantidade de indivíduos envolvidos.\
