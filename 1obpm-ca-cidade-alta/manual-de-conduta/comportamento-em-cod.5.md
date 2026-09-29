@@ -8,6 +8,7 @@ O uso de armas de fogo em ação policial apenas é permitido em casos de absolu
 * Atenta contra vida de algum civil ou policial;
 * É avistado com armamento em mãos durante uma QRU de CÓD. 5;
 * Propositalmente pula na água com o veículo durante a fuga;
+* Inicia fuga de abordagem após a confirmação do mesmo estar se evadindo de um COD. 5 (Nesse caso, será liberado o disparo no pneu para imobilização do veiculo)
 
 Caso o indivíduo passe diversas vezes em um local de ocorrência em CÓD. 5, o mesmo deverá ser alertado verbalmente para se retirar. Caso persista, deverá ser realizado disparos de alerta no chão. O último nível será disparos no pneu do veículo e abordagem de código 3.\
 \
