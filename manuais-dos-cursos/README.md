@@ -1,2 +1,0 @@
-# Manuais dos cursos
-
