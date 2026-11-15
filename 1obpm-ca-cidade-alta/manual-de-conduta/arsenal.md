@@ -24,7 +24,7 @@ Não esqueça de equipar: COLETE, ALGEMA e TABLET!
 
 #### <mark style="color:$primary;">Evidência:</mark>
 
-A Evidência é utilizada para armazenar os pertences dos indivíduos durante a ocorrência, garantindo a organização e o registro correto dos itens apreendidos. ![⚠️](https://discord.com/assets/fb6fd920c79bd504.svg) \
+A Evidência é utilizada para armazenar os pertences dos indivíduos durante a ocorrência, garantindo a organização e o registro correto dos itens apreendidos. ![⚠️](https://discord.com/assets/fb6fd920c79bd504.svg)\
 \
 <mark style="color:$danger;">**ATENÇÃO:**</mark>**&#x20;Após arrastar um item para o saco de Evidências, não será possível removê-lo.** Em caso de erro (inserção de item indevido):
 
@@ -33,13 +33,13 @@ A Evidência é utilizada para armazenar os pertences dos indivíduos durante a 
 
 **Ex:** Evidência Comum. Ex: Evidência com Conteúdo > (OBS: Não esquecer de inserir o nº da evidência no boletim de ocorrência)<br>
 
-<mark style="color:orange;">**Evidência comum:**</mark>&#x20;
+<mark style="color:orange;">**Evidência comum:**</mark>
 
-<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
-<mark style="color:orange;">**Evidência com conteúdo:**</mark>&#x20;
+<mark style="color:orange;">**Evidência com conteúdo:**</mark>
 
-<figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 <mark style="color:$primary;">**Analisador Residual:**</mark>
 
@@ -48,16 +48,16 @@ A Evidência é utilizada para armazenar os pertences dos indivíduos durante a 
     <div align="left"><figure><img src="../../.gitbook/assets/image (34).png" alt=""><figcaption></figcaption></figure></div>
 
 \
-Exemplos onde o resultado é **Positivo** \
+Exemplos onde o resultado é **Positivo**\
 ![](<../../.gitbook/assets/image (35).png>)\
 ![](<../../.gitbook/assets/image (42).png>)\
 Exemplos onde o resultado é **Negativo**\
-![](<../../.gitbook/assets/image (37).png>)<br>
+![](<../../.gitbook/assets/image (36).png>)<br>
 
 <mark style="color:$primary;">**Identificador de Pólvora:**</mark>
 
 Utilizado em ocorrências onde teve uma suspeita de um disparo de arma de fogo ilegal\
-![](<../../.gitbook/assets/image (39).png>)\
+![](<../../.gitbook/assets/image (38).png>)\
 \
 Exemplos onde o resultado é **Positivo**\
 ![](<../../.gitbook/assets/image (40).png>)\
@@ -65,15 +65,18 @@ Exemplos onde o resultado é **Positivo**\
 Exemplos onde o resultado é **Negativo**\
 ![](<../../.gitbook/assets/image (41).png>)
 
-
-
 <mark style="color:$primary;">ARMAS e EQUIPAMENTOS</mark>
 
 Nossos armamentos e equipamentos são dividios entre PATENTE e CURSO DE CAPACITAÇÃO para uso operacional.
 
-Para <mark style="color:$success;">RECRUTAS:</mark>\ <mark style="color:$success;">- 1x Glock</mark>\ <mark style="color:$success;">- 250x Munições de Pistola</mark>\ <mark style="color:$success;">-&#x20;2x Colete;</mark>\ <mark style="color:$success;">- 1x Algema;</mark>\ <mark style="color:$success;">- 1x Tablet Policial;</mark>\ <mark style="color:$success;">- 1x Taser;</mark>\ <mark style="color:$success;">- 1x Cassetete ou taco;</mark>\ <mark style="color:$success;">- 10x Sacos de Evidências.</mark>\
+Para <mark style="color:$success;">RECRUTAS:</mark> \ <mark style="color:$success;">1x</mark> Glock ou Five7 (ESCOLHA APENAS UMA)  \ <mark style="color:$success;">250x</mark> Munições de Pistola \
+<mark style="color:$success;">2x</mark> Colete \ <mark style="color:$success;">1x</mark> Algema \
+<mark style="color:$success;">1x</mark> Tablet Policial \ <mark style="color:$success;">1x</mark> Taser \ <mark style="color:$success;">1x</mark> Cassetete ou taco \ <mark style="color:$success;">1x</mark> Sig MPX\
+<mark style="color:$success;">250x</mark> Munições de Submetralhadoras \
+<mark style="color:$success;">10x</mark> Sacos de Evidências \
 \
-Para <mark style="color:$warning;">Soldados+:</mark>\ <mark style="color:$warning;">- 1x Glock OU Five Seven (ESCOLHA APENAS UMA)</mark>\ <mark style="color:$warning;">- 250x Munições de Pistola;</mark>\ <mark style="color:$warning;">- 1x M4A1</mark>\ <mark style="color:$warning;">- 250x Munições de Fuzil + 250 Extras totalizando 500;</mark>\ <mark style="color:$warning;">- 2x Colete;</mark>\ <mark style="color:$warning;">- 1x Algema;</mark>\ <mark style="color:$warning;">- 1x Tablet Policial;</mark>\ <mark style="color:$warning;">- 1x Taser;</mark>\ <mark style="color:$warning;">- 1x Cassetete ou taco;</mark>\ <mark style="color:$warning;">- 1x Analisador Residual e de Polvora;</mark>\ <mark style="color:$warning;">- 1x Chave Mestre;</mark>\ <mark style="color:$warning;">- 10x Sacos de Evidências.</mark>
+Para <mark style="color:$warning;">Soldados+:</mark>\ <mark style="color:$warning;">1x</mark> Glock OU Five Seven (ESCOLHA APENAS UMA)  \
+<mark style="color:$warning;">250x</mark> Munições de Pistola\ <mark style="color:$warning;">1x</mark> M4A1\ <mark style="color:$warning;">250x</mark> Munições de Fuzil\ <mark style="color:$warning;">250x</mark> Extras totalizando 500\ <mark style="color:$warning;">2x</mark> Colete\ <mark style="color:$warning;">1x</mark> Algema\ <mark style="color:$warning;">1x</mark> Tablet Policial\ <mark style="color:$warning;">1x</mark> Taser\ <mark style="color:$warning;">1x</mark> Cassetete ou taco\ <mark style="color:$warning;">1x</mark> Analisador Residual e de Polvora\ <mark style="color:$warning;">1x</mark> Chave Mestre\ <mark style="color:$warning;">10x</mark> Sacos de Evidências.
 
 #### <mark style="color:$primary;">Attachs:</mark>
 
