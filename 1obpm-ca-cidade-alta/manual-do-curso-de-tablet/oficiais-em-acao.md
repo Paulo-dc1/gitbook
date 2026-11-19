@@ -7,3 +7,5 @@ O ponto de ação deve ser utilizado exclusivamente durante ações e desativado
 {% endhint %}
 
 <figure><img src="../../.gitbook/assets/Screenshot_187.png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/Screenshot_202.png" alt=""><figcaption></figcaption></figure>
