@@ -2,9 +2,7 @@
 
 ### <mark style="color:$success;">Código 1:</mark>
 
-<figure><img src="../../.gitbook/assets/image (32).png" alt=""><figcaption></figcaption></figure>
-
-
+<figure><img src="../../.gitbook/assets/image (31).png" alt=""><figcaption></figcaption></figure>
 
 _É uma abordagem que não configura risco aparente aos oficiais, são comumente empregadas em infrações de trânsito e não há obrigação de ser solicitado o QRR. A educação e respeito ao civil são primordiais._
 

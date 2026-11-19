@@ -47,19 +47,19 @@ Sr. Fernando Color, por gentileza compareça até o seu veículo na praça, obri
 
 <mark style="color:yellow;">**CHAT DE COMUNICAÇÃO COM OS MÉDICOS (/112):**</mark>
 
-Este chat de comunicação também pode ser visto por todos os civis. Ele deve ser utilizado exclusivamente para solicitar autorização para a prestação de primeiros socorros.\
+Este chat de comunicação também pode ser visto por todos os civis. Seu uso deve ser exclusivamente para situações em que houver demora no atendimento médico após o chamado já ter sido aceito.\
 \
 Exemplo de uso:
 
-“Olá, Doutores, boa tarde. Os oficiais estão autorizados a prestar primeiros socorros nas ruas? TKS, Coronel Baiak Remade.”\
+“Olá, Doutores, boa tarde. Os medicos estão a QTI do chamado na DP-G? Att. Sub Tenente Larissa Dimarolla.”\
 \
 <mark style="color:$primary;">**LIBERAÇÃO DE RÁDIO APÓS QRU**</mark><mark style="color:yellow;">**:**</mark>
 
-Após a finalização de uma QRU, o oficial responsável deverá informar no CP que a freqüência está liberada para uso. \
+Após a finalização de uma QRU, o oficial responsável deverá informar no CP que a freqüência está liberada para uso.\
 ⇒ Exemplo: **/cp Rádio Polícia2 Liberada**\
 \
 <mark style="color:$primary;">**ATUALIZAÇÃO INFORMES DE QRU /**</mark>CP<mark style="color:yellow;">**:**</mark>
 
-Ao iniciar um acompanhamento somos responsável pela modulação e informes no /CP, ou seja, um resumo referente a QRU em andamento.\
-QRU | VEÍCULO | 3 DÍGITOS FINAL PLACA | VAGAS OU COD 4, 5 E 6 + RADIO\
+Ao iniciar um acompanhamento somos responsável pela modulação e informes no /CP, ou seja, um resumo referente a QRU em andamento.\
+QRU | VEÍCULO | 3 DÍGITOS FINAL PLACA | VAGAS OU COD 4, 5 E 6 + RADIO\
 ⇒ Exemplo: ATM | Sultan II | Placa: JE5 | Sem vagas | Polícia2

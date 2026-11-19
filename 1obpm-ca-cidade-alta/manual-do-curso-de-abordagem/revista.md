@@ -33,11 +33,13 @@ Um oficial masculino **jamais** deve revistar uma abordada feminina, é **obriga
 **Em situações onde não houver nenhuma oficial feminina em serviço**, o oficial deverá realizar o procedimento da caixa (pela opção _“enviar caixa”_). Caso a suspeita não colabore, deverá permanecer na cela **até que uma** <mark style="color:$danger;">PFEM</mark> **compareça**.\
 \
 \- **ITENS QUE RETIRAMOS NA REVISTA:** Lockpick, drogas, colete, dinheiro ilícito, algema, armamento, munição, capuz, adrenalina (exclusiva para uso médico e policial), C4 (explosivos), itens roubados (porta malas), e missão.\
-Envelope Manchado, Mapa de Rotas e Horários, Plano de Segurança, Caderno de Registro, Registro de Movimentação e Credencial Falsificada\
+Envelope Manchado, Mapa de Rotas e Horários, Plano de Segurança, Caderno de Registro, Registro de Movimentação e Credencial Falsificada\
 OBS: Retiramos na revista, independente da ocorrência apenas o "CHIP ILEGAL.". sendo assim caso o tablet esteja com a descrição: CHIP SECURE VPN, iremos retirar o tablet > coletar o chip > e DEVOLVER o Tablet pro individuo.\
 \
 \- **ITENS RETIRADOS NA REVISTA CASO UTILIZADOS NO MOMENTO DO CRIME:** Corda (para resgate), armas brancas (taco, lanterna, chave de grifo, pé de cabra). Tenha certeza que os itens citado acima foram de fato utilizados para crimes ilegais antes de retirá-los.\
 \
 \- **ITENS QUE NÃO RETIRAMOS NO MOMENTO DA REVISTA:** Rádio e celular (pois não tem sinal na prisão), energético, bandagem, kit reparo e galão de gasolina\
 \
-\- **REVISTA EM VEÍCULO:** Em qualquer tipo de QRU que envolva um veículo de qualquer natureza (carro, motocicleta, helicóptero), está autorizada a REVISTA veicular COMPLETA (porta luvas e porta malas).Em ação fechada, onde for encontrado algum veículo na porta da ação, o procedimento também será utilizado.
+\- **REVISTA EM VEÍCULO:** Em qualquer tipo de QRU que envolva um veículo de qualquer natureza (carro, motocicleta, helicóptero), está autorizada a REVISTA veicular COMPLETA (porta luvas e porta malas).Em ação fechada, onde for encontrado algum veículo na porta da ação, o procedimento também será utilizado.\
+\
+\- **QUEBRA DE NEGOCIAÇÃO:** A quebra de negociação por parte da polícia é considerada erro de procedimento policial, podendo acarretar punições administrativas. Quando isso acontecer, deverão ser r**etirados SOMENTE os itens provenientes do roubo da ação, sendo:** Dinheiro sujo e papéis provenientes da ação;&#x20;
