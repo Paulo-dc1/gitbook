@@ -87,3 +87,77 @@ Exemplo: Resgates<br>
 Estar em posse de forma ilegal de munições de armas de fogo. Deve ser aplicado apenas se o individuo não estiver portando arma.
 
 ## Principais Multas
+
+* Ocultação Facial
+
+Ocultar, Totalmente ou parcialmente a face, a fim de impossibilitar reconhecimento.
+
+
+
+* Uso indevido dos canais Públicos
+
+Aplica-se quando algum civil usa indevidamente dos canais públicos (/911 e /112).
+
+
+
+* Veículo gravemente Avariado
+
+Conduzir veículo automotor gravemente avariado. (O veículo deve ser conduzido através um reboque para reparos ou para o pátio do departamento caso haja resistência por parte do condutor).
+
+
+
+* Veículo estacionado ilegalmente
+
+Estacionar em um lugar que não seja uma vaga de estacionamento, bloqueando uma pista aliada ou a menos de 5 metros de um hidrante, o veículo é abandonado
+
+
+
+* Abandono de veículo:
+
+Abandono de qualquer tipos de veículo em local proibido ou em desacordo.
+
+## Crimes Comumente Usados em Código 5
+
+
+
+* Tentativa de Homicídio
+
+Quando o indivíduo faz menção de matar outra pessoa, como por exemplo, tentou atirar contra civis ou oficiais, mirou a arma, estava inserido no meio de pessoas que foram acusadas de homicídio, corroborando com aquela situação.
+
+
+
+* Disparo de Arma de Fogo
+
+Aplica-se a indivíduos, desmaiados ou conscientes, após a confirmação dos disparos de forma visual ou via teste de pólvora.
+
+
+
+* Porta Ilegal de Armas (Alta Cadência)
+
+Aplica-se a indivíduos que estejam em posse dos armamentos considerados Pistolas Automáticas, Submetralhadoras ou Fuzis.
+
+
+
+* Porta Ilegal de Armas (Baixa Cadência)
+
+Aplica-se a indivíduos que estejam em posse dos armamentos considerados Pistola e Revolver não automáticos.
+
+
+
+* Associação Criminosa
+
+Participar ativamente de um crime seja direta ou indiretamente, num somatório de 3 indivíduos ou mais. (Não se aplica em ações fechadas/blipadas)
+
+## Procurados
+
+No momento do sistema prisional, é obrigatório sempre verificar se o individuo tem multas pendentes e se está como Procurado pela Policia, e caso sim deve-se encaminha-lo pelo crime informado. No entanto, foi criado o individuo procurado em situações de duplicidade.\
+Individuo Procurado\
+Esse crime deverá ser utilizado quando houver duplicidade de pena, ou seja, quando o crime pelo qual o indivíduo está sendo atendido na QRU for o mesmo crime pelo qual ele consta como procurado.\
+\
+<mark style="color:$primary;">Quando Aplicar?</mark>\
+\
+Se a Qru atual e o procurado forem referentes ao mesmo crime, deverá ser acrescentado o crime de Indivíduo Procurado, gerando a duplicidade da pena. Ex: Roubo + Procurado por Roubo, nesse caso ele tomará por Roubo + Individuo Procurado\
+\
+<mark style="color:$primary;">Quando não aplicar?</mark>\
+\
+Ele não deve ser utilizado quando o crime da QRU atual for diferente do crime pelo qual o indivíduo está procurado. (Ex: Corrida ilegal + Roubo)
